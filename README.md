@@ -83,9 +83,3 @@ src/
 - 🔎 Genre/category filters
 - 🎭 Actor and director pages
 - 📊 User ratings and reviews
-
----
-
-## 🪪 License
-
-This project is licensed under the MIT License — feel free to fork and build on top of it.
